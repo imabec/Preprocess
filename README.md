@@ -1,9 +1,8 @@
  # Pre Process
  The goal of the pre process package is to streamline exploratory data analysis. This package uses ggplot2 and vcd package for graphing. Feel free to provide suggestions on new functions to use or improvements on existing ones. 
  ## Installation
- to be added!
- ## Table of Contents
- to be added
+ The following is how ti install the package
+ ```install.packages("Preprocess")```
  ## Functions 
  The following is a list explaining each functions usage and output,
  ### one_hot_code
